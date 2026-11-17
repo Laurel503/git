@@ -14,3 +14,15 @@ Desktop.ini
 *.tmp
 *.bak
 ~$*
+
+# ---- WorkBuddy 工作台内部数据 ----
+.workbuddy/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
+
+# ---- Node ----
+node_modules/
